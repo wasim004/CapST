@@ -60,9 +60,15 @@ If you use this work in your research, please cite:
 
 ```bibtex
 @article{ahmad2025capst,
-  title={CapST: Leveraging Capsule Networks and Temporal Attention for Accurate Model Attribution in Deep-fake Videos},
-  author={Ahmad, Wasim and Peng, Yan-Tsung and Chang, Yuan-Hao and Ganfure, Gaddisa Olani and Khan, Sarwar},
-  journal={ACM Transactions on Multimedia Computing, Communications and Applications (TOMM)},
-  year={2025},
-  doi={10.1145/3715138}
+author = {Ahmad, Wasim and Peng, Yan-Tsung and Chang, Yuan-Hao and Ganfure, Gaddisa Olani and Khan, Sarwar},
+title = {CapST: Leveraging Capsule Networks and Temporal Attention for Accurate Model Attribution in Deep-fake Videos},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1551-6857},
+url = {https://doi.org/10.1145/3715138},
+doi = {10.1145/3715138},
+journal = {ACM Trans. Multimedia Comput. Commun. Appl.},
+month = jan,
+keywords = {Deepfake, Efficient Deep-fake Model Attribution (DFMA), Capsule Network, Dynamic Routing Algorithm (DRA), GAN’s, Spatial-Temporal Attention (STA), Video Forensics, Model Attribution, Temporal Analysis}
 }
